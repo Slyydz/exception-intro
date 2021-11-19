@@ -1,0 +1,16 @@
+C:\Users\willi\workspace\back-end\exceptions-intro\obj\Debug\net5.0\exceptions-intro.csproj.AssemblyReference.cache
+C:\Users\willi\workspace\back-end\exceptions-intro\obj\Debug\net5.0\exceptions-intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\workspace\back-end\exceptions-intro\obj\Debug\net5.0\exceptions-intro.AssemblyInfoInputs.cache
+C:\Users\willi\workspace\back-end\exceptions-intro\obj\Debug\net5.0\exceptions-intro.AssemblyInfo.cs
+C:\Users\willi\workspace\back-end\exceptions-intro\obj\Debug\net5.0\exceptions-intro.csproj.CoreCompileInputs.cache
+C:\Users\willi\workspace\back-end\exceptions-intro\bin\Debug\net5.0\exceptions-intro.exe
+C:\Users\willi\workspace\back-end\exceptions-intro\bin\Debug\net5.0\exceptions-intro.deps.json
+C:\Users\willi\workspace\back-end\exceptions-intro\bin\Debug\net5.0\exceptions-intro.runtimeconfig.json
+C:\Users\willi\workspace\back-end\exceptions-intro\bin\Debug\net5.0\exceptions-intro.runtimeconfig.dev.json
+C:\Users\willi\workspace\back-end\exceptions-intro\bin\Debug\net5.0\exceptions-intro.dll
+C:\Users\willi\workspace\back-end\exceptions-intro\bin\Debug\net5.0\ref\exceptions-intro.dll
+C:\Users\willi\workspace\back-end\exceptions-intro\bin\Debug\net5.0\exceptions-intro.pdb
+C:\Users\willi\workspace\back-end\exceptions-intro\obj\Debug\net5.0\exceptions-intro.dll
+C:\Users\willi\workspace\back-end\exceptions-intro\obj\Debug\net5.0\ref\exceptions-intro.dll
+C:\Users\willi\workspace\back-end\exceptions-intro\obj\Debug\net5.0\exceptions-intro.pdb
+C:\Users\willi\workspace\back-end\exceptions-intro\obj\Debug\net5.0\exceptions-intro.genruntimeconfig.cache
